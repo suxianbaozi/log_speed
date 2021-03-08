@@ -1,10 +1,9 @@
 # log_speed
 用来统计日志的输出速度
 
-for analysis the speed of log
 
 
-# 示例
+
 
 ## 准备工作
 ```sudo chmod +x log_speed.py```
