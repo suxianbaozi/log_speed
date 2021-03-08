@@ -8,6 +8,7 @@ for analysis the speed of log
 
 ## 准备工作
 ```sudo chmod +x log_speed.py```
+
 ```sudo cp log_speed.py /usr/local/bin/log_speed```
 
 
