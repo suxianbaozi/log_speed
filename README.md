@@ -16,8 +16,8 @@ sudo cp log_speed.py /usr/local/bin/log_speed
 
 
 ### 统计nginx日志的速度
-···tail -f /var/log/nginx/access.log | log_speed···
+```tail -f /var/log/nginx/access.log | log_speed```
 
 ### 统计nginx日志含有爬虫的输出速度
 
-···tail -f /var/log/nginx/access.log |grep spider |log_speed···
+```tail -f /var/log/nginx/access.log |grep spider |log_speed```
